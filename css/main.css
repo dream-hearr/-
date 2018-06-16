@@ -1,0 +1,7 @@
+h3{font-size:14px} 
+#comments{margin:10px auto} 
+#post{margin-top:10px} 
+#comments p,#post p{line-height:30px} 
+#comments p span{margin:4px; color:#999} 
+#message{position:relative; display:none; margin-top:-100px; margin-left:30px;  
+background:#369; color:#fff; z-index:1001} 
